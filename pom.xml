@@ -64,17 +64,6 @@
         </snapshotRepository>
     </distributionManagement>
          
-<build>
-  <pluginManagement>
-    <plugins>
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>5.7.0.6970</version>
-      </plugin>
-    </plugins>
-  </pluginManagement>
-         
     <build>
         <finalName>myweb</finalName>
 
