@@ -74,7 +74,6 @@
       </plugin>
     </plugins>
   </pluginManagement>
-</build>
          
     <build>
         <finalName>myweb</finalName>
